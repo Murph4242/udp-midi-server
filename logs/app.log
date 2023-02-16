@@ -1,0 +1,5 @@
+2022-11-04 21:53:42,694 INFO org.scenesfromahat.udpserver.UdpServerApplication [restartedMain] Starting UdpServerApplication using Java 17.0.3 on HYPNOTOAD with PID 2492 (E:\dev\upd-server\target\classes started by steve in E:\dev\upd-server)
+2022-11-04 21:53:42,696 DEBUG org.scenesfromahat.udpserver.UdpServerApplication [restartedMain] Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-04 21:53:42,696 INFO org.scenesfromahat.udpserver.UdpServerApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-11-04 21:53:44,047 DEBUG org.scenesfromahat.udpserver.MidiStuff [restartedMain] Found: USB MIDI Interface
+2022-11-04 21:53:44,784 INFO org.scenesfromahat.udpserver.UdpServerApplication [restartedMain] Started UdpServerApplication in 2.373 seconds (JVM running for 3.129)

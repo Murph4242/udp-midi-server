@@ -1,0 +1,8 @@
+logging:
+  level:
+    org.springframework: ERROR
+    org.scenesfromahat: DEBUG
+  pattern:
+    console: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+app:
+  file: file:chases.json
